@@ -1,0 +1,20 @@
+{
+  "queueSize": 5,
+  "cameraThreshold": 0.1,
+  "cameraIP": "55",
+  "cameraPort": 9,
+  "backendIP": "77",
+  "backendPort": 4,
+  "windows_saveToDBPath": "C:\\MobileyeBootcamp_MEEC\\ImageProject\\ImageProject\\files\\avgOfObj.db",
+  "linux_saveToDBPath": "//mnt//c//MobileyeBootcamp_MEEC//ImageProject//ImageProject//files//avgOfObj.db",
+  "windows_netPath": "C:\\MobileyeBootcamp_MEEC\\ImageProject\\ImageProject\\files\\yolov5s.onnx",
+  "linux_netPath": "//mnt//c//MobileyeBootcamp_MEEC//ImageProject//ImageProject//files//yolov5s.onnx",
+  "CSVPath": "averages.csv",
+  "windows_objectsListPath": "C:\\MobileyeBootcamp_MEEC\\ImageProject\\ImageProject\\files\\coco.names",
+  "linux_objectsListPath": "//mnt//c//MobileyeBootcamp_MEEC//ImageProject//ImageProject//files//coco.names",
+  "windows_videoPath": "C:\\MobileyeBootcamp_MEEC\\ImageProject\\ImageProject\\files\\movie.mp4",
+  "linux_videoPath": "//mnt//c//MobileyeBootcamp_MEEC//ImageProject//ImageProject//files//movie.mp4"
+}
+
+
+

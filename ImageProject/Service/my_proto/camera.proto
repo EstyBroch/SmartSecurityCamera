@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+package expcmake;
+
+message CreateMat{
+   string message = 1;
+}
+
+message Frame {
+  string timestampVideo  = 1;
+  bytes  imagedata       = 2;
+  int32  width           = 3;
+  int32  height          = 4;
+  int32  channels        = 5;
+}
+
+service Greeter {
+	rpc getMat (Frame) returns (CreateMat){}
+}

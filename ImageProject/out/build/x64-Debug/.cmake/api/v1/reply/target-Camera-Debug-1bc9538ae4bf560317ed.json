@@ -1,0 +1,1197 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "Camera/Camera.exe"
+		},
+		{
+			"path" : "Camera/Camera.pdb"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"target_link_options",
+			"target_link_libraries",
+			"set_target_properties",
+			"include",
+			"find_package",
+			"target_compile_options",
+			"target_compile_definitions",
+			"include_directories"
+		],
+		"files" : 
+		[
+			"Camera/CMakeLists.txt",
+			"ImageProject/CMakeLists.txt",
+			"Service/CMakeLists.txt",
+			"C:/Program Files (x86)/grpc/lib/cmake/absl/abslTargets.cmake",
+			"C:/Program Files (x86)/grpc/lib/cmake/absl/abslConfig.cmake",
+			"C:/Program Files (x86)/grpc/cmake/protobuf-config.cmake",
+			"C:/Program Files (x86)/grpc/cmake/protobuf-targets.cmake",
+			"C:/Program Files (x86)/grpc/lib/cmake/grpc/gRPCTargets.cmake",
+			"C:/Program Files (x86)/grpc/lib/cmake/grpc/gRPCConfig.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 125,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 43,
+				"parent" : 0
+			},
+			{
+				"file" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 81,
+				"parent" : 4
+			},
+			{
+				"file" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 20,
+				"parent" : 6
+			},
+			{
+				"command" : 5,
+				"file" : 2,
+				"line" : 3,
+				"parent" : 6
+			},
+			{
+				"file" : 5,
+				"parent" : 8
+			},
+			{
+				"command" : 5,
+				"file" : 5,
+				"line" : 7,
+				"parent" : 9
+			},
+			{
+				"file" : 4,
+				"parent" : 10
+			},
+			{
+				"command" : 4,
+				"file" : 4,
+				"line" : 32,
+				"parent" : 11
+			},
+			{
+				"file" : 3,
+				"parent" : 12
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 685,
+				"parent" : 13
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 525,
+				"parent" : 13
+			},
+			{
+				"command" : 4,
+				"file" : 5,
+				"line" : 14,
+				"parent" : 9
+			},
+			{
+				"file" : 6,
+				"parent" : 16
+			},
+			{
+				"command" : 3,
+				"file" : 6,
+				"line" : 67,
+				"parent" : 17
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 693,
+				"parent" : 13
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 757,
+				"parent" : 13
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 861,
+				"parent" : 13
+			},
+			{
+				"command" : 5,
+				"file" : 2,
+				"line" : 4,
+				"parent" : 6
+			},
+			{
+				"file" : 8,
+				"parent" : 22
+			},
+			{
+				"command" : 4,
+				"file" : 8,
+				"line" : 15,
+				"parent" : 23
+			},
+			{
+				"file" : 7,
+				"parent" : 24
+			},
+			{
+				"command" : 3,
+				"file" : 7,
+				"line" : 108,
+				"parent" : 25
+			},
+			{
+				"command" : 3,
+				"file" : 7,
+				"line" : 144,
+				"parent" : 25
+			},
+			{
+				"command" : 3,
+				"file" : 7,
+				"line" : 126,
+				"parent" : 25
+			},
+			{
+				"command" : 3,
+				"file" : 7,
+				"line" : 61,
+				"parent" : 25
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 605,
+				"parent" : 13
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 301,
+				"parent" : 13
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 661,
+				"parent" : 13
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 405,
+				"parent" : 13
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 549,
+				"parent" : 13
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 589,
+				"parent" : 13
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 573,
+				"parent" : 13
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 1334,
+				"parent" : 13
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 1286,
+				"parent" : 13
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 1310,
+				"parent" : 13
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 461,
+				"parent" : 13
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 437,
+				"parent" : 13
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 1213,
+				"parent" : 13
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 469,
+				"parent" : 13
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 477,
+				"parent" : 13
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 1358,
+				"parent" : 13
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 1366,
+				"parent" : 13
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 1446,
+				"parent" : 13
+			},
+			{
+				"command" : 3,
+				"file" : 7,
+				"line" : 99,
+				"parent" : 25
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 1254,
+				"parent" : 13
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 1005,
+				"parent" : 13
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 1085,
+				"parent" : 13
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 1165,
+				"parent" : 13
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 1181,
+				"parent" : 13
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 1133,
+				"parent" : 13
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 1422,
+				"parent" : 13
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 1238,
+				"parent" : 13
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 245,
+				"parent" : 13
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 149,
+				"parent" : 13
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 813,
+				"parent" : 13
+			},
+			{
+				"command" : 6,
+				"file" : 0,
+				"line" : 98,
+				"parent" : 0
+			},
+			{
+				"command" : 7,
+				"file" : 0,
+				"line" : 68,
+				"parent" : 0
+			},
+			{
+				"command" : 8,
+				"file" : 0,
+				"line" : 27,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-MDd"
+				},
+				{
+					"backtrace" : 60,
+					"fragment" : "/permissive-"
+				},
+				{
+					"backtrace" : 60,
+					"fragment" : "/std:c++17"
+				},
+				{
+					"backtrace" : 60,
+					"fragment" : "/sdl"
+				},
+				{
+					"backtrace" : 60,
+					"fragment" : "/W3"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 3,
+					"define" : "CARES_STATICLIB"
+				},
+				{
+					"backtrace" : 61,
+					"define" : "UNICODE"
+				},
+				{
+					"backtrace" : 61,
+					"define" : "_CONSOLE"
+				},
+				{
+					"backtrace" : 61,
+					"define" : "_DEBUG"
+				},
+				{
+					"backtrace" : 61,
+					"define" : "_UNICODE"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 3,
+					"path" : "C:/MobileyeBootcamp_MEEC/ImageProject/ImageProject"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "C:/MobileyeBootcamp_MEEC/ImageProject/ImageProject/../../../sources/spdlog/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "C:/MobileyeBootcamp_MEEC/ImageProject/out/build/x64-Debug/Service"
+				},
+				{
+					"backtrace" : 62,
+					"isSystem" : true,
+					"path" : "C:/opencv/build/include"
+				},
+				{
+					"backtrace" : 3,
+					"isSystem" : true,
+					"path" : "C:/Program Files (x86)/grpc/include"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 3,
+			"id" : "my_proto::@91bc7765fde5a1b73d63"
+		},
+		{
+			"backtrace" : 3,
+			"id" : "ImageProject::@558029648c8a604b4ba0"
+		}
+	],
+	"id" : "Camera::@8a6251a248fe276a471c",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-MDd",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "/subsystem:console",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/DEBUG",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/SUBSYSTEM:CONSOLE",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "C:\\opencv\\build\\x64\\vc16\\lib\\opencv_world480d.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "C:\\opencv\\build\\x64\\vc16\\lib\\opencv_world480d.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "C:\\opencv\\build\\x64\\vc16\\lib\\opencv_world480d.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "C:\\opencv\\build\\x64\\vc16\\lib\\opencv_world480d.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "C:\\opencv\\build\\x64\\vc16\\lib\\opencv_world480d.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "C:\\opencv\\build\\x64\\vc16\\lib\\opencv_world480d.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "C:\\opencv\\build\\x64\\vc16\\lib\\opencv_world480d.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "C:\\opencv\\build\\x64\\vc16\\lib\\opencv_world480d.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "C:\\opencv\\build\\x64\\vc16\\lib\\opencv_world480d.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "C:\\opencv\\build\\x64\\vc16\\lib\\opencv_world480d.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "C:\\opencv\\build\\x64\\vc16\\lib\\opencv_world480d.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "C:\\opencv\\build\\x64\\vc16\\lib\\opencv_world480d.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "C:\\opencv\\build\\x64\\vc16\\lib\\opencv_world480d.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "C:\\opencv\\build\\x64\\vc16\\lib\\opencv_world480d.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "C:\\opencv\\build\\x64\\vc16\\lib\\opencv_world480d.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "C:\\MobileyeBootcamp_MEEC\\ImageProject\\x64\\Debug\\ImageProject.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "C:\\opencv\\build\\x64\\vc16\\lib\\opencv_world480d.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "C:\\opencv\\build\\x64\\vc16\\lib\\opencv_world480d.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "C:\\opencv\\build\\x64\\vc16\\lib\\opencv_world480d.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "C:\\opencv\\build\\x64\\vc16\\lib\\opencv_world480d.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "C:\\opencv\\build\\x64\\vc16\\lib\\opencv_world480d.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "C:\\opencv\\build\\x64\\vc16\\lib\\opencv_world480d.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "C:\\opencv\\build\\x64\\vc16\\lib\\opencv_world480d.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "C:\\opencv\\build\\x64\\vc16\\lib\\opencv_world480d.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "C:\\opencv\\build\\x64\\vc16\\lib\\opencv_world480d.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "C:\\opencv\\build\\x64\\vc16\\lib\\opencv_world480d.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "C:\\opencv\\build\\x64\\vc16\\lib\\opencv_world480d.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "C:\\opencv\\build\\x64\\vc16\\lib\\opencv_world480d.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "C:\\opencv\\build\\x64\\vc16\\lib\\opencv_world480d.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "C:\\opencv\\build\\x64\\vc16\\lib\\opencv_world480d.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "C:\\opencv\\build\\x64\\vc16\\lib\\opencv_world480d.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "C:\\opencv\\build\\x64\\vc16\\lib\\opencv_world480d.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "C:\\opencv\\build\\x64\\vc16\\lib\\opencv_world480d.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "Service\\my_proto.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 7,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\grpc++.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 7,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\libprotobufd.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 14,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_log_internal_check_op.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 15,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_leak_check.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_die_if_null.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 14,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_log_internal_conditions.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 14,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_log_internal_message.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 19,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_log_internal_nullguard.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 20,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_examine_stack.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 20,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_log_internal_format.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 20,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_log_internal_proto.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 20,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_log_internal_log_sink_set.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 20,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_log_sink.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 20,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_log_entry.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_log_initialize.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 21,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_log_globals.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 21,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_log_internal_globals.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\utf8_validity.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 7,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\grpc.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_statusor.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 26,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\re2.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 26,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\upb_json_lib.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 26,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\upb_textformat_lib.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 27,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\upb_collections_lib.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 27,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\upb.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 28,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\utf8_range_lib.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 26,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\zlibstaticd.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 26,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\cares.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 29,
+				"fragment" : "advapi32.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 29,
+				"fragment" : "iphlpapi.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 26,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\gpr.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_flags.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 30,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_flags_internal.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 30,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_flags_reflection.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 31,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_raw_hash_set.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_hash.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 32,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_city.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 32,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_low_level_hash.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 33,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_hashtablez_sampler.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 30,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_flags_config.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 34,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_flags_program_name.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 35,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_flags_private_handle_accessor.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 30,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_flags_commandlineflag.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 36,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_flags_commandlineflag_internal.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_status.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_cord.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 37,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_cordz_info.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 37,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_cord_internal.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 37,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_cordz_functions.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 38,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_exponential_biased.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 39,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_cordz_handle.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 37,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_crc_cord_state.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 40,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_crc32c.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 41,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_crc_internal.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 41,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_crc_cpu_detect.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 42,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_strerror.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_synchronization.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 15,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_stacktrace.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 42,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_symbolize.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 43,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_debugging_internal.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 44,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_demangle_internal.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 45,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_graphcycles_internal.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 45,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_kernel_timeout_internal.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 45,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_malloc_internal.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_time.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 46,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_civil_time.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 46,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_time_zone.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 47,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_bad_variant_access.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 48,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_flags_marshalling.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 49,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_str_format_internal.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 50,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_random_distributions.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 50,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_random_seed_sequences.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 50,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_random_internal_pool_urbg.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 51,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_random_internal_randen.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 52,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_random_internal_randen_hwaes.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 53,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_random_internal_randen_hwaes_impl.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 52,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_random_internal_randen_slow.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 52,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_random_internal_platform.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 54,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_random_internal_seed_material.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 55,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_bad_optional_access.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_strings.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 32,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_int128.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 56,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_string_view.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 57,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_throw_delegate.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 56,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_strings_internal.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_base.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 58,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_spinlock_wait.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 58,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_raw_logging_internal.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_log_severity.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 51,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\absl_random_seed_gen_exception.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 59,
+				"fragment" : "-ignore:4221",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 26,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\ssl.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 26,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\crypto.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 26,
+				"fragment" : "\"C:\\Program Files (x86)\\grpc\\lib\\address_sorting.lib\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 26,
+				"fragment" : "ws2_32.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 26,
+				"fragment" : "crypt32.lib",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "Camera",
+	"nameOnDisk" : "Camera.exe",
+	"paths" : 
+	{
+		"build" : "Camera",
+		"source" : "Camera"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Camera/Camera.cpp",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "EXECUTABLE"
+}

@@ -1,0 +1,8 @@
+C:/MobileyeBootcamp_MEEC/ImageProject/ImageProject/CMakeFiles/ALL_BUILD.dir
+C:/MobileyeBootcamp_MEEC/ImageProject/ImageProject/CMakeFiles/ZERO_CHECK.dir
+C:/MobileyeBootcamp_MEEC/ImageProject/ImageProject/ImageProject/CMakeFiles/ImageProject.dir
+C:/MobileyeBootcamp_MEEC/ImageProject/ImageProject/Camera/CMakeFiles/Camera.dir
+C:/MobileyeBootcamp_MEEC/ImageProject/ImageProject/Camera/CMakeFiles/ALL_BUILD.dir
+C:/MobileyeBootcamp_MEEC/ImageProject/ImageProject/Server/CMakeFiles/Server.dir
+C:/MobileyeBootcamp_MEEC/ImageProject/ImageProject/Server/CMakeFiles/ALL_BUILD.dir
+C:/MobileyeBootcamp_MEEC/ImageProject/ImageProject/Service/CMakeFiles/my_proto.dir
